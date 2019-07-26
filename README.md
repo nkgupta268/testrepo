@@ -1,2 +1,2 @@
 #. Example Repo
-It's a just Repo created for my testing only.
+It's just Repo created for my testing only.
